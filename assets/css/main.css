@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #a0d8ef;
 		font-size: 3.5em;
 	}
 
@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #a0d8ef;
 			color: #ffffff !important;
 		}
 
@@ -2387,7 +2387,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #a0d8ef;
 			}
 
 			input[type="submit"].special:active,
@@ -2461,8 +2461,8 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: #a0d8ef;
+		color: #7bcdd1;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #78a2cf;
 					display: block;
 					padding: 0;
 				}
@@ -2569,7 +2569,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #a0d8ef !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2848,7 +2848,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: #a0d8ef;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
